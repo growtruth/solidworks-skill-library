@@ -1,0 +1,15 @@
+# 系统与临时文件
+*.tmp
+*.log
+~$*
+_diag_*.vbs
+
+# 与本项目无关的本地备份
+00_能力基线/启动项备份/
+
+# SolidWorks 自动备份与锁文件
+~$*.SLDPRT
+~$*.SLDASM
+*.SLDPRT~
+*.SLDASM~
+*.SLDDRW~
